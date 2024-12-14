@@ -6,11 +6,11 @@
 /*   By: mel-bouh <mel-bouh@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/08 05:22:21 by mel-bouh          #+#    #+#             */
-/*   Updated: 2024/12/10 03:55:01 by mel-bouh         ###   ########.fr       */
+/*   Updated: 2024/12/14 05:07:20 by mel-bouh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "Main.hpp"
+#include "main.hpp"
 
 std::string	Contact::getFirstName()
 {

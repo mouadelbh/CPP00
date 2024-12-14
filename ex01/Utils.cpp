@@ -6,11 +6,11 @@
 /*   By: mel-bouh <mel-bouh@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/08 22:22:54 by mel-bouh          #+#    #+#             */
-/*   Updated: 2024/12/10 03:45:24 by mel-bouh         ###   ########.fr       */
+/*   Updated: 2024/12/14 05:07:03 by mel-bouh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "Main.hpp"
+#include "main.hpp"
 
 int	NumberNotValid(std::string nb)
 {

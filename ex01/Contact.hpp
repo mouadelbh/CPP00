@@ -6,14 +6,14 @@
 /*   By: mel-bouh <mel-bouh@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/08 05:24:05 by mel-bouh          #+#    #+#             */
-/*   Updated: 2024/12/09 02:31:57 by mel-bouh         ###   ########.fr       */
+/*   Updated: 2024/12/14 05:07:20 by mel-bouh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef CONTACT_H
 # define CONTACT_H
 
-#include "Main.hpp"
+#include "main.hpp"
 
 class Contact
 {

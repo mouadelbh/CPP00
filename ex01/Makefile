@@ -6,13 +6,13 @@
 #    By: mel-bouh <mel-bouh@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/12/09 01:57:30 by mel-bouh          #+#    #+#              #
-#    Updated: 2024/12/09 02:10:51 by mel-bouh         ###   ########.fr        #
+#    Updated: 2024/12/14 05:06:17 by mel-bouh         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 CXX = c++
 FLAGS = -Wall -Wextra -Werror
-FILES = Contact.cpp PhoneBook.cpp Utils.cpp Main.cpp
+FILES = Contact.cpp PhoneBook.cpp Utils.cpp main.cpp
 OBJ = $(FILES:.cpp=.o)
 NAME = phonebook
 
